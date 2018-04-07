@@ -1,2 +1,2 @@
 class Author
-  
+end
